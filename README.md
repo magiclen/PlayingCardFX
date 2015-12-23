@@ -3,7 +3,7 @@ PlayingCardFX
 
 # Introduction
 
-**PlayingCardFX** is a JavaFX application, which uses native canvas to draw playing cards programmably. If you want to implement some card games, you can check out this application to help you do that.
+**PlayingCardFX** is a JavaFX application, which uses native canvas to draw playing cards programmatically. If you want to implement some card games, you can check out this application to help you do that.
 
 # Usage
 
